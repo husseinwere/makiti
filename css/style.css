@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     padding: 0;
     margin: 0;
@@ -421,7 +422,7 @@ img.appstore {
     #mobile-search .input-after {
         width: calc(20vw - 7px);
         line-height: 44px;
-        margin-left: -18px;
+        margin-left: -23px;
     }
     #mobile-categories {
         margin: 10px;
